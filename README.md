@@ -3,8 +3,7 @@
 
   <h3>📈 My Github Stats</h3>
 
-  <p align="left"> <img src="github-stats-khanhdo05s-projects.vercel.app
-/api?username=khanhdo05&show_icons=true&theme=gotham" alt="khanhdo05's Github Stats" />
+  <p align="left"> <img src="https://github-readme-stats-khanhdo05s-projects.vercel.app/api?username=khanhdo05&show_icons=true&theme=gotham" alt="khanhdo05's Github Stats" />
 
 <!--
 **khanhdo05/khanhdo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
