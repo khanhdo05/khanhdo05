@@ -16,4 +16,4 @@
 
 <p align="left"> <img src="https://github-readme-stats-khanhdo05s-projects.vercel.app/api?username=khanhdo05&show_icons=true&theme=panda" alt="khanhdo05's Github Stats" />
   
-<p align="left"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhdo05&langs_count=8)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhdo05&langs_count=8" alt="khanhdo05's top lang" />
