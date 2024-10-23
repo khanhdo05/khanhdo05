@@ -16,5 +16,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats-khanhdo05s-projects.vercel.app/api?username=khanhdo05&show_icons=true&theme=panda" alt="khanhdo05's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhdo05&langs_count=10&layout=compact" alt="khanhdo05's top lang" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhdo05&langs_count=10&hide_progress=true" alt="khanhdo05's top lang" />
 </div>
