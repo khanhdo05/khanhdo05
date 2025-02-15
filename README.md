@@ -11,6 +11,11 @@
 - 🤔 I'm interning at Gusto as a SWE this Summer 2025 in San Fran but I'm actively seeking **Summer 2026 Internship**
 - 😄 My latest employment was with P3 + Uplift, read about my first **Software Engineering Internship** experience [here](https://www.upliftdelivery.com/post/budding-debuggers-share-their-2024-internship-experience)
 - 🐰 Chess • Matcha • Code • Cooking • Musical Theatre
+
+### ✨ Use my stuff
+
+- [Quack Chrome Extension (hustle tool)](https://chromewebstore.google.com/detail/quack/kbbkbaoiaeccjdbkcjngdfgphfeolcfj)
+- [Fortune Cookie (brainrot)](https://fortune-cookie-ij67.onrender.com/)
   
 ### 📈 My Github Stats
 
