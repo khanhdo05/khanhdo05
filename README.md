@@ -8,7 +8,6 @@
 ### ✨ About me
 
 - 🔭 I'm currently studying at Grinnell College as a Computer Science student
-- 🤔 I'm interning at Gusto as a SWE this Summer 2025 in San Fran but I'm actively seeking **Summer 2026 Internship**
 - 😄 My latest employment was with P3 + Uplift, read about my first **Software Engineering Internship** experience [here](https://www.upliftdelivery.com/post/budding-debuggers-share-their-2024-internship-experience)
 - 🐰 Chess • Matcha • Code • Cooking • Musical Theatre
 
