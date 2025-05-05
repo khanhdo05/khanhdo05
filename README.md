@@ -13,6 +13,7 @@
 
 ### ✨ Use my stuff
 
+- [StressLess Calendar (CSC324 Final Project)](https://stressless-frontend.onrender.com/)
 - [Quack Chrome Extension (hustle tool)](https://chromewebstore.google.com/detail/quack/kbbkbaoiaeccjdbkcjngdfgphfeolcfj)
 - [Fortune Cookie (brainrot)](https://fortune-cookie-ij67.onrender.com/)
   
