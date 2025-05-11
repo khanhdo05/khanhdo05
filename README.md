@@ -1,4 +1,4 @@
-## <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FF75B5&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there+✨;I'm+Khanh%2C+a+tech+chef+and+matcha+girl+wannabe+%E2%9C%A9" width="70%" />
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=100&color=FF75B5&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%E2%9C%A8%2C;I'm+Khanh%2C+a+wannabe+tech+chef+and+matcha+girl+%3C3)](https://git.io/typing-svg)
 
 ### 🔗 Let's connect
 
