@@ -8,7 +8,7 @@
 ### ✨ About me
 
 - 🔭 I'm currently studying at Grinnell College as a Computer Science student and interning as a Software Engineer at [Gusto](https://gusto.com/) under Growth Onboarding team.
-- 😄 My latest employment was with P3 + Uplift, read about my first **Software Engineering Internship** experience [here](https://www.upliftdelivery.com/post/budding-debuggers-share-their-2024-internship-experience)
+- 😄 I also interned at P3 + Uplift last summer, read about my first **Software Engineering Internship** experience [here](https://www.upliftdelivery.com/post/budding-debuggers-share-their-2024-internship-experience)
 - 🐰 Chess • Matcha • Code • Cooking • Musical Theatre
 
 ### ✨ Use my stuff
